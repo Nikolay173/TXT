@@ -1,0 +1,5 @@
+Last name: Kuzmin
+Name: Nikolay
+age: 42 
+pet:none
+future salary:2000
