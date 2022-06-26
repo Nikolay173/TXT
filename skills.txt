@@ -1,0 +1,16 @@
+skills that i will gain at the end of the course
+    "what_is testing","bug_reports","test_referral_methods",
+    "client server architecture","server request methods",
+    "http server response_codes",
+    "http request and response structures",
+    "what is json xml and their structure",
+    "api testing via postman",
+    "removing and reading logs from an external server",
+    "sniffing http web traffic via  charles and fiddler",
+    "devtools web browsers google chrome firefox",
+    "building android applications on android studio",
+    "adb android device management","proxy and vpn setup on ios and android",
+    "sniffing mobile raffic through charlis and fidler on ios and android",
+    "command line on Linux copy create view move on non-GUI servers basics of bashscripting automation of tasks on the server",
+    "basics sql creat delete drop insert into select ware join access to remote servers",
+    "postgres database installation setup and usage","non-relational database redis installation setup use
